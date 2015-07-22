@@ -1,0 +1,17 @@
+﻿{
+    "version": "0.1.0-*",
+    "description": "A monad instance for applications.",
+    "authors": [ "Jeremy" ],
+    "tags": [ "" ],
+    "projectUrl": "",
+    "licenseUrl": "",
+
+    "dependencies": {
+        "System.Runtime": "4.0",
+        "Sharper.C.Unit":  "0.1.3-*"
+    },
+
+    "frameworks": {
+        "dotnet": { }
+    }
+}
